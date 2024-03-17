@@ -1,2 +1,2 @@
 # Taximeter
-Patikaacademy Simple Taximeter hw
+Patika Academy Simple Taximeter hw
